@@ -21,37 +21,37 @@ Hari Ke-3: (waktu tambahan untuk Git)
 ## Minggu Ke-4
 Hari Ke-1: Dasar-Dasar Javascript
 
-Hari Ke-2: Pengambilan Keputusan
+Hari Ke-2: Operator
 
-Hari Ke-3: Perulangan
+Hari Ke-3: Pengambilan Keputusan
 
 ## Minggu Ke-5
-Hari Ke-1: Fungsi
+Hari Ke-1: Perulangan
 
-Hari Ke-2: Struktur Data
+Hari Ke-2: Fungsi
 
-Hari Ke-3: Pemrograman Berorientasi Objek (OOP)
+Hari Ke-3: Pemrograman Fungsional
 
 ## Minggu Ke-6
-Hari Ke-1: Pemrograman Fungsional
+Hari Ke-1: Struktur Data Array
 
-Hari Ke-2: Pemrograman Asinkron
+Hari Ke-2: Struktur Data Object
 
 Hari Ke-3: Pemrograman Berorientasi Objek (OOP)
 
 ## Minggu Ke-7
-Hari Ke-1: Pemrograman Fungsional
+Hari Ke-1: Pemrograman Asinkron
 
-Hari Ke-2: Pemrograman Asinkron
+Hari Ke-2: Penanganan Error
 
-Hari Ke-3: Penanganan Error
+Hari Ke-3: Dasar-Dasar DOM
 
 ## Minggu Ke-8
-Hari Ke-1: Dasar-Dasar DOM
+Hari Ke-1: Manipulasi DOM
 
-Hari Ke-2: Manipulasi DOM
+Hari Ke-2: Event DOM
 
-Hari Ke-3: Event DOM
+Hari Ke-3: DOM dengan ZeptoJS
 
 ## Minggu Ke-9
 Hari Ke-1: Javascript Object Notation (JSON)
