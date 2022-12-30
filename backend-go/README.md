@@ -55,7 +55,9 @@ Individual Project
 
 ## Minggu Ke-9
 Hari Ke-1: DBMS dan SQL
+
 Hari Ke-2: DDL, DQL, dan DML
+
 Hari Ke-3: ORM dan Gorm
 
 ## Minggu Ke-10
