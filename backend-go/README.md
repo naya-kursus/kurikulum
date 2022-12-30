@@ -1,4 +1,4 @@
-# Frontend Javascript
+# Backend Go
 Program NAYA Kursus
 
 ## Minggu Ke-1
