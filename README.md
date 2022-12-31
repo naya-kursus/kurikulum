@@ -22,8 +22,8 @@ Dengan adanya beberapa ruang pembelajaran di atas, siswa mendapat materi secara 
 dan praktik di kelas. Kemudian, dapat membangun jaringan, berbagi pemahaman, serta
 beraptasi di lingkungan.
 
-Akhirnya, diharapkan hadirnya sebuah kegiatan yang akan membentuk ekosistem.
-Kemudian, dari ekosistem tersebut lahirlah programmer dengan kemampuan yang mumpuni.
+Akhirnya, diharapkan menjadi kegiatan yang akan membentuk ekosistem.
+Kemudian, dari ekosistem tersebut lahirlah programmer yang siap masuk ke dunia industri.
 
 ## Panduan Umum
 
