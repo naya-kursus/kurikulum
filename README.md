@@ -49,6 +49,10 @@ NAYA Kursus pada dasarnya tidak menyediakan sertifikat maupun ijazah.
 Agar peserta memiliki bukti pembelajaran, maka diwajibkan untuk mengupload hasil belajar
 ke internet. Dalam hal ini, kita akan gunakan repository [Github](https://github.com).
 
+Hal yang harus disiapkan adalah:
+* akun Github
+* repository bernama `naya-kursus`
+
 Adapun susunan file dalam repository adalah:
   * 1 folder untuk 1 hari pertemuan
   * folder diberi nama sesuai urutan minggu dan hari
