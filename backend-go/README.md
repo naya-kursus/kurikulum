@@ -44,14 +44,18 @@ Hari Ke-2: Channel
 Hari Ke-3: Penanganan Error
 
 ## Minggu Ke-7
-Hari Ke-1: Javascript Object Notation (JSON)
+Hari Ke-1: Go module
 
-Hari Ke-2: Protokol HTTP dan HTTP Client
+Hari Ke-2: Package
 
-Hari Ke-3: HTTP Server
+Hari Ke-3: Javascript Object Notation (JSON)
 
 ## Minggu Ke-8
-Individual Project
+Hari Ke-1: Protokol HTTP dan HTTP Client
+
+Hari Ke-2: HTTP Server
+
+Hari Ke-3: Go Fiber
 
 ## Minggu Ke-9
 Hari Ke-1: DBMS dan SQL
