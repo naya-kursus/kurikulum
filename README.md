@@ -44,7 +44,18 @@ Kemudian, dari ekosistem tersebut lahirlah programmer yang siap masuk ke dunia i
   * berdiskusi dengan mentor maupun sesama peserta
   * tetap fokus, tetapi dapat bersantai (sambil makan atau minum)
 
-## Portofolio
+### Penggunaan Kurikulum
+* Kurikulum tiap program dibuat sebagai acuan pembelajaran
+* Pembahasan dalam kurikulum merupakan topik yang akan dibahas pada pertemuan tersebut
+* Latihan adalah soal-soal yang berkaitan dengan pembahasa
+* Tugas adalah kasus yang harus diselesaikan
+* Kurikulum dapat disesuaikan baik secara isi, urutan, maupun kecepatan
+* Penyesuaian kurikulum:
+  * berdasarkan kemampuan seluruh peserta dalam kelas
+  * atas inisiatif peserta maupun mentor
+  * dengan kesepakatan peserta dengan mentor
+
+### Portofolio
 NAYA Kursus pada dasarnya tidak menyediakan sertifikat maupun ijazah.
 Agar peserta memiliki bukti pembelajaran, maka diwajibkan untuk mengupload hasil belajar
 ke internet. Dalam hal ini, kita akan gunakan repository [Github](https://github.com).
