@@ -2,9 +2,9 @@
 Rangkaian materi untuk bahan ajar di NAYA Kursus
 
 ## Daftar Isi
-* Pendahuluan
-* Panduan Umum
-* Program
+* [Pendahuluan](#pendahuluan)
+* [Panduan Umum](#panduan-umum)
+* [Program](#program)
   * [Frontend Javascript](./frontend-javascript/README.md)
   * [Backend Go](./backend-go/README.md)
 
