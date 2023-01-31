@@ -15,7 +15,7 @@ Minggu Ke- | Hari
 4 | [Hari Ke-1: Penanganan Error](./04.md#hari-ke-1-penanganan-error)
 | | [Hari Ke-2: Pemrograman Fungsional](./04.md#hari-ke-2-pemrograman-fungsional)
 | | [Hari Ke-3: Struct](./04.md#hari-ke-3-struct)
-5 | Hari Ke-1: Standard Library
+5 | [Hari Ke-1: Standard Library](./05.md#hari-ke-1-standard-library)
 | | [Hari Ke-2: Go module](./05.md#hari-ke-2-go-module)
 | | [Hari Ke-3: Package](./05.md#hari-ke-3-package)
 6 | [Hari Ke-1: Interface](./06.md#hari-ke-1-interface)
