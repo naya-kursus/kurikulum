@@ -24,7 +24,7 @@ Minggu Ke- | Hari
 | | [Hari Ke-3: Event DOM](./07.md#hari-ke-3-event-dom)
 8 | [Hari Ke-1: DOM dengan ZeptoJS](./08.md#hari-ke-1-dom-dengan-zeptojs)
 | | [Hari Ke-2: Javascript Object Notation (JSON)](./08.md#hari-ke-2-javascript-object-notation-json)
-| | Hari Ke-3: Dasar-Dasar NodeJS
+| | [Hari Ke-3: Dasar-Dasar NodeJS](/08.md#hari-ke-3-dasar-dasar-nodejs)
 9 | [Hari Ke-1: Protokol HTTP](./09.md#hari-ke-1-protokol-http)
 | | [Hari Ke-2: HTTP Client](./09.md#hari-ke-2-http-client)
 | | Hari Ke-3: Git untuk Kolaborasi
