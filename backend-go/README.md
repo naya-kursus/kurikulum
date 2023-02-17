@@ -27,8 +27,8 @@ Minggu Ke- | Hari
 8 | [Hari Ke-1: DBMS dan SQL](./08.md#hari-ke-1-dbms-dan-sql)
 | | [Hari Ke-2: DDL, DQL, dan DML](./08.md#hari-ke-2-ddl-dql-dan-dml)
 | | [Hari Ke-3: ORM dan Gorm](./08.md#hari-ke-3-orm-dan-gorm)
-9 | Hari Ke-1: Go Fiber Middleware
-| | Hari Ke-2: Authentication JWT
+9 | [Hari Ke-1: Go Fiber Middleware](./09.md#hari-ke-1-go-fiber-middleware)
+| | [Hari Ke-2: Authentication JWT](./09.md#hari-ke-2-authentication-jwt)
 | | Hari Ke-3: Git untuk Kolaborasi
 10 | Individual Project
 11 & 12 | Team Project
